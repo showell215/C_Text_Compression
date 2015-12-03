@@ -1,0 +1,8 @@
+pack
+unpack
+bits
+wordlist
+*.o
+compressed.raw
+stdout.txt
+stderr.txt
