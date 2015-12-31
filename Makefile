@@ -1,4 +1,5 @@
-CFLAGS = -g -Wall -std=c99
+CXX = g++
+CXXFLAGS = -Wall -std=c++0x
 
 # We have two targets.  By default, we'll try to make both.
 all: pack unpack
